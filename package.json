@@ -1,0 +1,23 @@
+{
+  "name": "hangmannodegame",
+  "version": "1.0.0",
+  "description": "HangMan Game",
+  "main": "game.js",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rey-adam/Constructor-Hangman-Node.git"
+  },
+  "author": "Rey Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rey-adam/Constructor-Hangman-Node/issues"
+  },
+  "homepage": "https://github.com/rey-adam/Constructor-Hangman-Node#readme"
+}
