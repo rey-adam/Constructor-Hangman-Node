@@ -2,3 +2,10 @@
 
 var letter = require('./letter.js');
 
+var Word = function(GuessWord) {
+    this.GuessWord = GuessWord;
+    
+}
+
+
+module.exports = Word;
